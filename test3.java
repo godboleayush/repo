@@ -5,5 +5,6 @@ public class test3 {
         System.out.println("moving ahead in main");
         System.out.println("stash check");
         System.out.println("lets see git diff");
+        System.out.println("movr a lot ahead i am main");
     }
 }
