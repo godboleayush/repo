@@ -6,5 +6,7 @@ public class test3 {
         System.out.println("stash check");
         System.out.println("lets see git diff");
         System.out.println("aage badho");
+        System.out.println("movr a lot ahead i am main");
+
     }
 }
