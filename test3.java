@@ -3,5 +3,7 @@ public class test3 {
         System.out.println("File 3 changed");
         System.out.println("File 3 changed further");
         System.out.println("moving ahead in main");
+        System.out.println("stash check");
+        System.out.println("lets see git diff");
     }
 }
